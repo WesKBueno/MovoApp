@@ -1,2 +1,2 @@
 # MovoApp
- Modelo de gestão de trasnportes com foco em academia
+ Modelo de gestão de transportes com foco em academia
